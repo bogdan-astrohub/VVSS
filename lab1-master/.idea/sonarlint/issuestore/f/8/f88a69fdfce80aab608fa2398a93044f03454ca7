@@ -1,0 +1,9 @@
+
+ˆ
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ãÈˆ¦J$60a04b12-d6bc-4a13-8696-b909439c93e6
+Â
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(›öÚûÿÿÿÿJ$faeb4917-c449-4d85-973d-993d66ee4116
+w	java:S125"<This block of commented-out lines of code should be removed.(Ñö²J$a62f2c22-42dc-4967-8743-aab7a5ec899e
+|	java:S125"<This block of commented-out lines of code should be removed.(ªÌí¿ıÿÿÿÿJ$f92f5b5f-7b68-4cee-a1bb-4cc1510eea0e
+€
+java:S2147!"DCombine this catch with the one at line 31, which has the same body.(ï­£ÄJ$bfc16b25-4d2e-4251-98b2-532bf2b09cd3

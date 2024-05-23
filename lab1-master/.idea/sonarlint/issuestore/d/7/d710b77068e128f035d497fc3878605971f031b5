@@ -1,0 +1,11 @@
+
+k
+java:S1604("(Make this anonymous inner class a lambda(®Þñç8Ó±£Êê1J$500fedf7-0491-4614-abf5-195567eedf9f
+Ž
+java:S3655-"LCall "result.isPresent()" or "!result.isEmpty()" before accessing the value.(¼ý¦78à±£Êê1J$e69856ca-0057-46fc-bd6f-8a612d27928f
+x
+java:S2440"0Remove this instantiation of "PaymentValidator".(£§Òæùÿÿÿÿ8ŽÖ¸Ðê1J$cb397abb-0f4d-4c04-a8a9-798f91ebc091
+~	java:S125!"<This block of commented-out lines of code should be removed.(‹Ýôà8ë±£Êê1J$aa25d3cd-71d3-4be7-9285-9aaa0d0aba35
+m	java:S106/"+Replace this use of System.out by a logger.(¢‚éù8ï±£Êê1J$1a77b209-ba09-4323-8dc7-06776d8b3ac9
+ƒ	java:S125."<This block of commented-out lines of code should be removed.(žŠ‘Ÿûÿÿÿÿ8ï±£Êê1J$bf415e23-77e4-4021-ad13-08db60421259
+r	java:S1060"+Replace this use of System.out by a logger.(Ðñìêÿÿÿÿÿ8ñ±£Êê1J$5c9274dc-f88c-46d2-b41f-cad8f50446dd
